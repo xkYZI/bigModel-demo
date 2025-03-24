@@ -1,4 +1,5 @@
 **本项目主要采用 Vue3 + TypeScript + Vite 构建**
+
 **项目主要依赖：Element-Plus + mitt + Scss + base-64 + crypto-js**
 
 **介绍**：本项目主要是实现了一个基于**讯飞星火认知大模型**和 **DeepSeek** 的普通聊天功能，主要功能如下：
@@ -28,5 +29,5 @@
 
 本项目内容是在原有项目[**[CSDN]**[Vue3+TS]讯飞星火认知大模型搭建 demo](https://blog.csdn.net/weixin_52577523/article/details/142051874?spm=1001.2014.3001.5501)的基础上进行的新增
 
-详情可以查看[**[GitHub]**SparkDemo](https://github.com/xkYZI/SparkDemo)
+详情可以查看[**[GitHub]**SparkDemo](https://github.com/xkYZI/SparkDemo)原项目。
 
